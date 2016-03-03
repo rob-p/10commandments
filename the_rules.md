@@ -2,6 +2,7 @@
 In random order
 
 1. Thou shalt use an open source licence
+2. thou shalt use version control and version number significant releases
 2. Thou shalt not publish a paper that use "in-house (Language X) scripts, available upon request"
 2. Thou shalt not use massively outdated versions of actively maintained software
 3. thou shalt not use hard-coded paths or filenames.. ever
