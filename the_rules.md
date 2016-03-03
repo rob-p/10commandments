@@ -16,3 +16,4 @@ In random order
 13. thou shalt RTFM first.
 14. thou shalt generate neatly organised output directory heirarchies
 15. thou shalt not invent new file formats
+16. thou shalt not frivolously implement a parser
