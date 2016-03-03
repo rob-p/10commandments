@@ -22,3 +22,4 @@ In random order
 19. thy plots shall be vector pdfs or svgs, never bitmaps
 20. tho shall not create multiple copies of input read files (e.g., Trinity)
 21. thou shalt work with gzipped files
+22. thou shalt check all input text files for the following before shouting: windows EOL marks, empty lines at the end of the file, the wrong number of columns, odd characters in the file, comments that aren't preceeded by a #
