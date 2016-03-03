@@ -1,7 +1,8 @@
 ## 10 Commandments of Bioinformatics
 In random order
 
-1. Thou shalt not publish a paper that use "in-house (Language X) scripts, available upon request"
+1. Thou shalt use an open source licence
+2. Thou shalt not publish a paper that use "in-house (Language X) scripts, available upon request"
 2. Thou shalt not use massively outdated versions of actively maintained software
 3. thou shalt not use hard-coded paths or filenames.. ever
 4. tho shalt not write redundant software (e.g., another short read aligner)
@@ -23,3 +24,4 @@ In random order
 20. tho shall not create multiple copies of input read files (e.g., Trinity)
 21. thou shalt work with gzipped files
 22. thou shalt check all input text files for the following before shouting: windows EOL marks, empty lines at the end of the file, the wrong number of columns, odd characters in the file, comments that aren't preceeded by a #
+23. 
