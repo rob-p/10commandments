@@ -10,3 +10,5 @@ In random order
 7. though shalt always resolve all input paths and filenames to absolute paths before doing anything else
 8. thou shalt not put weird characters in filenames or paths, including spaces
 9. thou shalt not fail silently
+10. though shalt not create empty files if you fail (including files with just column headins in)
+11. Tho shalt use `--help` and not `-help`
