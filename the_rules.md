@@ -17,3 +17,5 @@ In random order
 14. thou shalt generate neatly organised output directory heirarchies
 15. thou shalt not invent new file formats
 16. thou shalt not frivolously implement a parser
+17. thou shall build checkpoints into long running software?
+18. tho shal not write 129869 temprary files (Trinity)
