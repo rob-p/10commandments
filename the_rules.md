@@ -7,4 +7,5 @@ In random order
 4. tho shalt not write redundant software (e.g., another short read aligner)
 5. thou shalt log everything, including paths to executables, versions, environmental variables, the lot.
 6. thou shalt have test
-7. 
+7. though shalt always resolve all input paths and filenames to absolute paths before doing anything else
+8. thou shalt not put weird characters in filenames or paths, including spaces
