@@ -21,3 +21,4 @@ In random order
 18. tho shal not write 129869 temprary files (Trinity)
 19. thy plots shall be vector pdfs or svgs, never bitmaps
 20. tho shall not create multiple copies of input read files (e.g., Trinity)
+21. thou shalt work with gzipped files
