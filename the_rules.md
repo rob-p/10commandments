@@ -30,5 +30,5 @@ In random order
 6. though shalt always resolve all input paths and filenames to absolute paths before doing anything else
 7. thou shalt not put weird characters in filenames or paths, including spaces
 8. thy plots shall be vector pdfs or svgs, never bitmaps
-
+9. Thou shalt verify input before submitting a bug report.
 
