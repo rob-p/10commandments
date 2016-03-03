@@ -9,3 +9,4 @@ In random order
 6. thou shalt have test
 7. though shalt always resolve all input paths and filenames to absolute paths before doing anything else
 8. thou shalt not put weird characters in filenames or paths, including spaces
+9. thou shalt not fail silently
