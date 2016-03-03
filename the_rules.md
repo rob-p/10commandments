@@ -12,3 +12,6 @@ In random order
 9. thou shalt not fail silently
 10. though shalt not create empty files if you fail (including files with just column headins in)
 11. Tho shalt use `--help` and not `-help`
+12. thou shalt have documentation, including a 'setting started' section
+13. thou shalt RTFM first.
+14. thou shalt generate neatly organised output directory heirarchies
