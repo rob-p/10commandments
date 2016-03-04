@@ -33,4 +33,5 @@ In a suggested order of importance.
 05. Thou shalt not put weird characters in filenames or paths, including spaces.
 06. Thou shalt verify the input before submitting a bug report.
 07. After verisfying the input, thou shalt RTFM again, before submitting a bug report.
+08. Thou shalt cite the versions of all codes used.
 
