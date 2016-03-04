@@ -1,34 +1,36 @@
 ## 10 Commandments of Bioinformatics
-In random order
+
+In a suggested order of importance.
 
 #### Developers
 
-1. Thou shalt use an open source licence
-2. thou shalt use version control and version number significant releases
-4. thou shalt not use hard-coded paths or filenames.. ever
-5. thou shalt have tests
-5. tho shalt not write redundant software (e.g., another short read aligner)
-6. thou shalt not fail silently
-7. though shalt not create empty files if you fail (including files with just column headins in)
-8. thou shalt not put weird characters in filenames or paths, including spaces  
-9. Tho shalt use `--help` and not `-help`
-10. thou shalt have documentation, including a 'getting started' section
-11. thou shalt generate neatly organised output directory heirarchies
-12. thou shalt not invent new file formats
-13. thou shalt not frivolously implement a parser
-15. thou shalt work with gzipped files
-16. thou shall build checkpoints into long running software?
-17. tho shal not write 129869 temprary files (Trinity)
+01. Thou shalt use an open source licence.
+02. Thou shalt use version control and version number significant releases.
+03. Thou shalt not write redundant software (e.g., another short read aligner).
+04. Thou shalt not invent new file formats.
+05. Thou shalt not frivolously re-implement software, especially parsers and anything R does already.
+06. Thou shalt not fail silently.
+07. Thou shalt not use hard-coded paths or filenames... ever.
+08. Thou shalt not create empty files if you fail (including files with just column headers in).
+09. Thou shalt log everything, including the command line called, paths to executables, versions, environmental variables, the lot.
+10. Thou shalt always resolve all input paths and filenames to absolute paths before doing anything else.
+11. Thou shalt have tests.
+12. Thou shalt have documentation, including a 'getting started' section.
+13. Thou shalt generate neatly organised output directory heirarchies.
+14. Thou shalt work with gzipped input as well as unconpressed input.
+15. Thou shall build checkpoints into long running software.
+16. Thou shalt not write >200 temprary files (Trinity).
+17. Thou shalt generate plots as vector pdfs or svgs, never bitmaps.
+18. Tho shalt use `--help` and not `-help`.
+19. Though shall always pad numbers with leading zeros to a standard length.
 
 #### Users
 
-1. thou shalt use version control for all coding work
-2. Thou shalt not publish a paper that use "in-house (Language X) scripts, available upon request"
-3. thou shalt RTFM first.
-4. Thou shalt not use massively outdated versions of actively maintained software
-5. thou shalt log everything, including paths to executables, versions, environmental variables, the lot.
-6. though shalt always resolve all input paths and filenames to absolute paths before doing anything else
-7. thou shalt not put weird characters in filenames or paths, including spaces
-8. thy plots shall be vector pdfs or svgs, never bitmaps
-9. Thou shalt verify input before submitting a bug report.
+01. Thou shalt use version control for all coding work.
+02. Thou shalt not publish a paper that use "in-house (Language X) scripts, available upon request"
+03. Thou shalt RTFM first.
+04. Thou shalt not use massively outdated versions of actively maintained software.
+05. Thou shalt not put weird characters in filenames or paths, including spaces.
+06. Thou shalt verify the input before submitting a bug report.
+07. After verisfying the input, thou shalt RTFM again, before submitting a bug report.
 
