@@ -24,8 +24,6 @@ In a suggested order of importance.
 18. Tho shalt use `--help` and not `-help`.
 19. Though shall always pad numbers with leading zeros to a standard length.
 
-<a name="footnote1">1</a>: Clearly, any tool that improves "considerably" on the state-of-the-art is *not redundant*. 
-
 #### Users
 
 01. Thou shalt use version control for all coding work.
@@ -37,3 +35,5 @@ In a suggested order of importance.
 07. After verisfying the input, thou shalt RTFM again, before submitting a bug report.
 08. Thou shalt cite the versions of all codes used.
 
+----------
+<a name="footnote1">1</a>: Clearly, any tool that improves "considerably" on the state-of-the-art is *not redundant*. 
