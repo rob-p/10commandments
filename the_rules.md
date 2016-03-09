@@ -6,7 +6,7 @@ In a suggested order of importance.
 
 01. Thou shalt use an open source licence.
 02. Thou shalt use version control and version number significant releases.
-03. Thou shalt not write redundant software (e.g., another short read aligner).
+03. Thou shalt not write redundant software (e.g., another short read aligner)<sup>[1](#footnote1)</sup>.
 04. Thou shalt not invent new file formats.
 05. Thou shalt not frivolously re-implement software, especially parsers and anything R does already.
 06. Thou shalt not fail silently.
@@ -23,6 +23,8 @@ In a suggested order of importance.
 17. Thou shalt generate plots as vector pdfs or svgs, never bitmaps.
 18. Tho shalt use `--help` and not `-help`.
 19. Though shall always pad numbers with leading zeros to a standard length.
+
+<a name="footnote1">1</a>: Clearly, any tool that improves "considerably" on the state-of-the-art is *not redundant*. 
 
 #### Users
 
